@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "/greatfrontendChallenge/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/greatfrontendChallenge/page.css",
+      "static/chunks/app/greatfrontendChallenge/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/testimonial/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/testimonial/page.js"
+    ]
+  }
+}
