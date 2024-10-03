@@ -20,7 +20,7 @@ export default function testimonial() {
                     </div>
                 </div>
                 <div>
-                    <p className="text-base text-neutral-600">
+                    <p className="text-base text-neutral-600 " style={{fontSize:'16px', lineHeight:'24px'}}>
                         I've been searching for abstract images for my design projects, and
                         I'm thrilled to have found this platform. The variety and depth of
                         creativity are astounding.
