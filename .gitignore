@@ -1,0 +1,6 @@
+node_modules
+next-env.d.ts
+package-lock.json
+.next/*
+.DS_Store
+src/.DS_Store
