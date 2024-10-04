@@ -2,7 +2,7 @@ import Link from 'next/link';
 import "../styles.css";
 
 const navigationLink =[{name:"Testimonial Card", href:"./testimonial"},
-   { name: "Other card", href:"./home"}
+   { name: "Newsletter Section", href:"./newsletter"}
 ]
 export default function greatfrontendChallenge(){
     return (

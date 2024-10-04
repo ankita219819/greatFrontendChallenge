@@ -3,8 +3,8 @@ import profile from '../images/profile-thumbnail.png'
 export default function testimonial() {
     return (
         <>
-        <div className="mt-[200px] flex justify-center">
-            <div className="card-content bg-white border-[1px] border-black rounded-lg border-solid w-[340px] shadow-lg p-5 justify-center"  >
+        <div className=" flex justify-center items-center h-screen w-screen" style={{background: 'linear-gradient(147.52deg, #F9FAFB 8.89%, #D2D6DB 100.48%)'}}>
+            <div className="card-content bg-white rounded-lg w-[340px] p-5 justify-center" style={{boxShadow: "0px 1px 3px rgba(0, 0, 0, 0.1), 0px 1px 2px -1px rgba(0, 0, 0, 0.1)"}} >
                 <div className="flex pb-4 pr-4">
                     <Image
                         src={profile} // Path relative to the 'public' folder
