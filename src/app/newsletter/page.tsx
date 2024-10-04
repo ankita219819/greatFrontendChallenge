@@ -94,7 +94,7 @@ export default function newsletter() {
                 )}
 
                 <div className="newsletter__content">
-                    <h1 className="newsletter__title text-5xl">
+                    <h1 className="newsletter__title text-5xl font-semibold">
                         Get the finest curated abstracts delivered weekly to your inbox
                     </h1>
                     <ul className="newsletter__features flex flex-col gap-5" >
