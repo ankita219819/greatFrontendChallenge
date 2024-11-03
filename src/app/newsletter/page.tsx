@@ -35,6 +35,8 @@ function useForm(initialValues: { email: string }) {
         validate,
     };
 }
+
+
 export default function newsletter() {
     const { values, errors, handleChange, validate } = useForm({ email: '' });
     const [isLoading, setIsLoading] = useState(false);
